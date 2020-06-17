@@ -1,0 +1,4 @@
+ask if pacman blood is okay
+should i make current string pos a methord
+
+should ghosts be animated?

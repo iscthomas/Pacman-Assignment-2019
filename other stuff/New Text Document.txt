@@ -1,0 +1,50 @@
+        private const string INITMAP = wwwwwwwwwwwwwwwwwwww +
+                                       kkkkkkkkkkkkkkkkkkkk +
+                                       kwwwkwwwkwwwkwwwkwww +
+                                       kkwkkwkkkwkwkwkwkwkk +
+                                       kkwkkwwwkwwwkwwwkwkk +
+                                       kkwkkkkwkwkwkwkwkwkk +
+                                       kwwwkwwwkwkwkwkwkwww +
+                                       kkkkkkkkkkkkkkkkkkkk +
+                                       kwwwkwwwkwwwkwwwkwww +
+                                       kkwkkwkkkwkwkwkwkwkk +
+                                       kkwkkwwwkwwwkwwwkwkk +
+                                       kkwkkkkwkwkwkwkwkwkk +
+                                       kwwwkwwwkwkwkwkwkwww +
+                                       kkkkkkkkkkkkkkkkkkkk +
+                                       kwwwkwwwkwwwkwwwkwww +
+                                       kkwkkwkkkwkwkwkwkwkk +
+                                       kkwkkwwwkwwwkwwwkwkk +
+                                       kkwkkkkwkwkwkwkwkwkk +
+                                       kwwwkwwwkwkwkwkwkwww +
+                                       kkkkkkkkkkkkkkkkkkkk;
+									   
+									   
+									   
+private const string INITMAP = "wwwwwwwwwwwwwwwwwwwwwbbbbbb" +
+                                       "wkkkkkkkkkwkkkkkkkkkwbbbbbb" +
+                                       "wkwwwkwwwkwkwwwkwwwkwbbbbbb" +
+                                       "wkwbwkwbwkwkwbwkwbwkwbbbbbb" +
+                                       "wkwwwkwwwkwkwwwkwwwkwbbbbbb" +
+                                       "wkkkkkkkkkkkkkkkkkkkwbbbbbb" +
+                                       "wkwwwkwkwwwwwkwkwwwkwbbbbbb" +
+                                       "wkwwwkwkwwwwwkwkwwwkwbbbbbb" +
+                                       "wkkkkkwkkkwkkkwkkkkkwbbbbbb" +
+                                       "wwwwwkwwwbwbwwwkwwwwwbbbbbb" +
+                                       "bbbbwkwbbbbbbbwkwbbbbbbbbbb" +
+                                       "bbbbwkwbwwwwwbwkwbbbbbbbbbb" +
+                                       "wwwwwkwbwbbbwbwkwwwwwbbbbbb" +
+                                       "bbbbbkbbwbbbwbbkbbbbbbbbbbb" +
+                                       "wwwwwkwbwwwwwbwkwwwwwbbbbbb" +
+                                       "bbbbwkwbbbbbbbwkwbbbbbbbbbb" +
+                                       "bbbbwkwbwwwwwbwkwbbbbbbbbbb" +
+                                       "wwwwwkwbwwwwwbwkwwwwwbbbbbb" +
+                                       "wkkkkkkkkkwkkkkkkkkkwbbbbbb" +
+                                       "wkwwwkwwwkwkwwwkwwwkwbbbbbb" +
+                                       "wkkkwkkkkkbkkkkkwkkkwbbbbbb" +
+                                       "wwwkwkwkwwwwwkwkwkwwwbbbbbb" +
+                                       "wwwkwkwkwwwwwkwkwkwwwbbbbbb" +
+                                       "wkkkkkwkkkwkkkwkkkkkwbbbbbb" +
+                                       "wkwwwwwwwkwkwwwwwwwkwbbbbbb" +
+                                       "wkkkkkkkkkkkkkkkkkkkwbbbbbb" +
+                                       "wwwwwwwwwwwwwwwwwwwwwbbbbbb";
